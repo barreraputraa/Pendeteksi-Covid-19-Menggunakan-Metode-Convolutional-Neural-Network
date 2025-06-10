@@ -1,0 +1,1 @@
+# Pendeteksi-Covid-19-Menggunakan-Metode-Convolutional-Neural-Network
